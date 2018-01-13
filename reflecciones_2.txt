@@ -1,0 +1,7 @@
+// Nuevas reflecciones
+
+1. Con git init uno agrega un directorio escondido ".git" el cual contiene nuestro historial de commits.
+
+2. Con el comando "ls -a" podemos desplegar la lista del contenido del directorio incluidos los documentos
+   escondidos dentro del mismo.
+

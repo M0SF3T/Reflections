@@ -1,0 +1,7 @@
+// Aqui es donde pongo las reflecciones de mis estudios sobre como usar git bash
+
+1. Algunos comandos esenciales son:
+   git log = muestra el record de commits hechos del repositorio
+   git diff "old file" "new file" = muestra los cambios entre dos commits del repositorio
+   git checkout "commit id" = regresa el contenido del commit seleccionado
+
